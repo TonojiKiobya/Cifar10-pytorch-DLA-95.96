@@ -12,7 +12,7 @@
 + checpoint 文件夹中存放着准确率为95.96%的模型参数
 
 
-##联系方式
+## 联系方式
 + treeben09@gmail.com
 
 # Cifar10-pytorch-DLA-95.96
